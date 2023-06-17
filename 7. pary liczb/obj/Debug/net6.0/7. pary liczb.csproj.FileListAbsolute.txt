@@ -1,0 +1,15 @@
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.csproj.CoreCompileInputs.cache
+D:\VS\Projects\cwiczenia 3\7. pary liczb\bin\Debug\net6.0\7. pary liczb.exe
+D:\VS\Projects\cwiczenia 3\7. pary liczb\bin\Debug\net6.0\7. pary liczb.deps.json
+D:\VS\Projects\cwiczenia 3\7. pary liczb\bin\Debug\net6.0\7. pary liczb.runtimeconfig.json
+D:\VS\Projects\cwiczenia 3\7. pary liczb\bin\Debug\net6.0\7. pary liczb.dll
+D:\VS\Projects\cwiczenia 3\7. pary liczb\bin\Debug\net6.0\7. pary liczb.pdb
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.dll
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\refint\7. pary liczb.dll
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.pdb
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\7. pary liczb.genruntimeconfig.cache
+D:\VS\Projects\cwiczenia 3\7. pary liczb\obj\Debug\net6.0\ref\7. pary liczb.dll

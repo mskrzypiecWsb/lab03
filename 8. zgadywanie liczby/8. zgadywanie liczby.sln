@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. zgadywanie liczby", "8. zgadywanie liczby.csproj", "{F5FB357C-7770-41E4-A5B5-09B76020E0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FB357C-7770-41E4-A5B5-09B76020E0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FB357C-7770-41E4-A5B5-09B76020E0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FB357C-7770-41E4-A5B5-09B76020E0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FB357C-7770-41E4-A5B5-09B76020E0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3923F4-1487-44DB-B782-F4C45B9B8FD3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\bin\Debug\net6.0\10. wypisywanie osobno liczb.exe
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\bin\Debug\net6.0\10. wypisywanie osobno liczb.deps.json
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\bin\Debug\net6.0\10. wypisywanie osobno liczb.runtimeconfig.json
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\bin\Debug\net6.0\10. wypisywanie osobno liczb.dll
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\bin\Debug\net6.0\10. wypisywanie osobno liczb.pdb
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.csproj.CoreCompileInputs.cache
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.dll
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\refint\10. wypisywanie osobno liczb.dll
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.pdb
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\10. wypisywanie osobno liczb.genruntimeconfig.cache
+D:\VS\Projects\cwiczenia 3\10. wypisywanie osobno liczb\obj\Debug\net6.0\ref\10. wypisywanie osobno liczb.dll

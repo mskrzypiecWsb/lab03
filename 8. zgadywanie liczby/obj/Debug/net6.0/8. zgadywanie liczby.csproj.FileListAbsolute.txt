@@ -1,0 +1,15 @@
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\bin\Debug\net6.0\8. zgadywanie liczby.exe
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\bin\Debug\net6.0\8. zgadywanie liczby.deps.json
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\bin\Debug\net6.0\8. zgadywanie liczby.runtimeconfig.json
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\bin\Debug\net6.0\8. zgadywanie liczby.dll
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\bin\Debug\net6.0\8. zgadywanie liczby.pdb
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.csproj.CoreCompileInputs.cache
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.dll
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\refint\8. zgadywanie liczby.dll
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.pdb
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\8. zgadywanie liczby.genruntimeconfig.cache
+D:\VS\Projects\cwiczenia 3\8. zgadywanie liczby\obj\Debug\net6.0\ref\8. zgadywanie liczby.dll

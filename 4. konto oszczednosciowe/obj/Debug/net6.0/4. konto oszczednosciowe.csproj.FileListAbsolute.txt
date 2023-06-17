@@ -1,0 +1,15 @@
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\bin\Debug\net6.0\4. konto oszczednosciowe.exe
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\bin\Debug\net6.0\4. konto oszczednosciowe.deps.json
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\bin\Debug\net6.0\4. konto oszczednosciowe.runtimeconfig.json
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\bin\Debug\net6.0\4. konto oszczednosciowe.dll
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\bin\Debug\net6.0\4. konto oszczednosciowe.pdb
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.csproj.CoreCompileInputs.cache
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.dll
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\refint\4. konto oszczednosciowe.dll
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.pdb
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\4. konto oszczednosciowe.genruntimeconfig.cache
+D:\VS\Projects\cwiczenia 3\4. konto oszczednosciowe\obj\Debug\net6.0\ref\4. konto oszczednosciowe.dll

@@ -1,0 +1,5 @@
+D:\VS\Projects\cwiczenia 3\3. obliczanie m\obj\Debug\net6.0\3. obliczanie m.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\3. obliczanie m\obj\Debug\net6.0\3. obliczanie m.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\3. obliczanie m\obj\Debug\net6.0\3. obliczanie m.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\3. obliczanie m\obj\Debug\net6.0\3. obliczanie m.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\3. obliczanie m\obj\Debug\net6.0\3. obliczanie m.csproj.CoreCompileInputs.cache

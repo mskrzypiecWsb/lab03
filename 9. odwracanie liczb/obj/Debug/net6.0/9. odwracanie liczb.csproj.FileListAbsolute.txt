@@ -1,0 +1,15 @@
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\bin\Debug\net6.0\9. odwracanie liczb.exe
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\bin\Debug\net6.0\9. odwracanie liczb.deps.json
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\bin\Debug\net6.0\9. odwracanie liczb.runtimeconfig.json
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\bin\Debug\net6.0\9. odwracanie liczb.dll
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\bin\Debug\net6.0\9. odwracanie liczb.pdb
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.csproj.AssemblyReference.cache
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.AssemblyInfoInputs.cache
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.AssemblyInfo.cs
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.csproj.CoreCompileInputs.cache
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.dll
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\refint\9. odwracanie liczb.dll
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.pdb
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\9. odwracanie liczb.genruntimeconfig.cache
+D:\VS\Projects\cwiczenia 3\9. odwracanie liczb\obj\Debug\net6.0\ref\9. odwracanie liczb.dll
